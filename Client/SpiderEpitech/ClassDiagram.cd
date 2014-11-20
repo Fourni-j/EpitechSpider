@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Spider">
+    <Position X="8.5" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAgQAAAAAAAIAAAAAAAAAAAAAAAAEAAAAAQAEAAA=</HashCode>
+      <FileName>Spider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Network">
+    <Position X="1" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>KAAAgwQgAAAAAAABAEAAQAAAAAAgAAAAAAABACQAAAA=</HashCode>
+      <FileName>Network.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocalLog">
+    <Position X="12.25" Y="6" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAQAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LocalLog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IObservable">
+    <Position X="3" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAyAAAAAA=</HashCode>
+      <FileName>IObservable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IObserver">
+    <Position X="8.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>IObserver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyEvents">
+    <Position X="4.75" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>KeyEvents.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data">
+    <Position X="12.25" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAEAAAEAAAABAAACAABBIIAACAAAAAAA=</HashCode>
+      <FileName>Data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
